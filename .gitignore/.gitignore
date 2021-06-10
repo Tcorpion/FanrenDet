@@ -1,0 +1,14 @@
+# Binary files
+*.jpg
+*.JPEG
+*.PNG
+*.png
+*.csv
+*.pt
+*.pth
+*.txt
+*.idea
+*/__pycache__/
+
+# Compiled python
+*.pyc
